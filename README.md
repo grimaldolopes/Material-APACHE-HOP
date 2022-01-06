@@ -24,4 +24,4 @@ Não deixe de começar e aprender sobre APACHE HOP.
 Venha fazer parte deste clube de profissionais que não para de crescer.
 
 # Onde encontrar mais detalhes sobre a ferramenta
-https://drive.google.com/drive/folders/1zpGLmCHzOQXY70AUO1edhp4kBi_aHebm
+https://is.gd/APRENDAAPACHEHOP
